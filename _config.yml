@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Phil"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Bioinformatics, Genomics, communication, education, compute infrastructure, "
+  location         : "Vancouver, BC"
+  employer         : "Centre for Molecular Medicine and Therapeutics, BC Children's Hospital Research Institute, University of British Columbia"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Phillip+A+Richmond"
+  googlescholar    : "http://https://scholar.google.ca/citations?user=Q5vulG4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "phillip-a-richmond"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "@sherlock_holmes_doodle"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-1882-6014"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@phil_a_richmond"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UC6B7cpEwSZTdbPd0d9G2JXg?view_as=subscriber"
   wikipedia        :
 
 
