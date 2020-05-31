@@ -1,12 +1,53 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "A little paragraph about Phillip Richmond"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
+Hi, my name is Phillip Richmond, and I am nearing the end of my PhD in Bioinformatics from the University of British Columbia. My thesis research has focused on expanding the utility of genome sequencing in the diagnosis of rare genetic diseases. First and foremost, I am a collaborative scientist, who believes that the best science happens in teams of diverse-minded individuals. To dig into my scientific projects, head over to the publications page. To see a full CV, head over to the CV page. For exposure to some of the teaching activities, head over to my teaching page. 
+
+## My scientific journey
+
+I've been studying bioinformatics and genomics since joining Dr. Robin Dowell's [bioinformatics laboratory](http://dowell.colorado.edu) in 2010 as a Molecular, Cellular, Developmental Biology undergraduate student at the University of Colorado—Boulder. Robin taught me how to think critically about research problems, and helped spark a scientific curiosity in me. Alongside other graduate students I was hand-taught coding in perl and bash, which then became using novel bioinformatic methods emerging at the time including BWA, samtools, bowtie, and IGV. 
+
+My first main research project was on finding the acquired mutations within a directed evolution study using isogenic strains of _Saccharomyces cerevisiae_ with different chromosomal copy number, or ploidy. This research went on to be published in [Nature](https://www.nature.com/articles/nature14187), with follow-up work detailing the investigation of adaptive mechanisms published in [Molecular Biology and Evolution](https://academic.oup.com/mbe/article/34/10/2690/4010934). Within Robin's lab  I was exposed to my passion for teaching, especially teaching bioinformatics analysis and [programming](http://dna.colorado.edu/education-python.html) to other researchers with molecular biology training. I further explored transcriptional regulation in yeast, gaining appreciation for the complexity of how genes are activated and how genomic variants alter gene expression in a [collaboration](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4709078/) with a talented scientist Dr. Tim Read. 
+
+My exposure expanded towards other model organisms across fields of [cancer epigenomics](https://academic.oup.com/nar/article/46/4/1756/4731545) and [behavioral genetics](https://link.springer.com/article/10.1007/s10519-016-9792-4). In one collaboration, I helped define the problems with using certain mouse models due to [cardiotoxicity of gene editing techniques](https://www.sciencedirect.com/science/article/pii/S002228281530002X). I spent time studying ethanol sensitivity in mice, trying to identify the [genomic underpinnings of tolerance and alcoholism predisposition](https://link.springer.com/article/10.1007/s00335-016-9663-6). 
+
+In 2015, I started my PhD in Bioinformatics at UBC in Dr. Wyeth Wasserman's lab, focusing on ways to expand the utility of whole genome sequencing in the diagnosis of rare genetic disorders. I have a special interest in improving and benchmarking methods for variant detection and interpretation, with an emphasis on short tandem repeat expansions. A highlight of the simulation capacity can be seen in the [GeneBreaker framework](https://www.biorxiv.org/content/10.1101/2020.05.29.124495v1). The interest in short tandem repeats emerged from the discovery of a novel short tandem repeat disorder in the [5'UTR of glutaminase](https://www.nejm.org/doi/full/10.1056/NEJMoa1806627), which I detected from whole genome sequencing data in an international study led by Dr. Clara van Karnebeek. This discovery led to the development of a novel short tandem repeat software package called [ExpansionHunter Denovo](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02017-z) alongside researchers at Illumina, primarily Dr. Egor Dolzhenko and Dr. Michael Eberle, and other international colleagues such as Dr. Mark Bennett and Dr. Melanie Bahlo from Melbourne. I also explored the rare disease modifier space in an international collaboration which focuses on finding prognostic markers of [cerebral demyelination in X-linked Adrenoleukodystrophy](https://www.medrxiv.org/content/10.1101/2020.03.19.20035063v1.abstract). The multi-omic space is the future of rare disease diagnosis, and I was lucky enough to collaborate with Emma Graham and Dr. Sara Mostafavi on a tool which leverages genomic and metabolomic data called [metPropagate](https://www.medrxiv.org/content/10.1101/2020.01.12.20016691v1). Lastly, alongside other 
+
+Beyond research, I have a passion for teaching and leadership, and have developed and taught open source courses in genome analysis for GenomeBC's GeneSkool, Compute Canada, and UBC Advanced Research Computing. I am the co-founder and co-chair of the [BCCHR Trainee Omics Group](https://bcchr.ca/tog), an initiative which focuses on training programming and analysis methods for "omics" data. Lastly, as I has a passion for building community and improving trainee experiences at BCCHR, he has served as the BCCHR Trainee Council chair since 2017. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
