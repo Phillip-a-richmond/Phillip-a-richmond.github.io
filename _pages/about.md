@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Note: Teaching/Publications pages are under construction. See CV tab for overview of this content. 
 
 Hi, my name is Phillip Richmond, and I am nearing the end of my PhD in Bioinformatics from the University of British Columbia. My thesis research has focused on expanding the utility of genome sequencing in the diagnosis of rare genetic diseases. First and foremost, I am a collaborative scientist, who believes that the best science happens in teams of diverse-minded individuals. To dig into my scientific projects, head over to the publications page. To see a full CV, head over to the CV page. For exposure to some of the teaching activities, head over to my teaching page. 
 
