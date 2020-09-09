@@ -86,7 +86,7 @@ author:
   location         : "Vancouver, BC"
   employer         : "University of British Columbia"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Phillip+A+Richmond"
-  googlescholar    : "http://https://scholar.google.ca/citations?user=Q5vulG4AAAAJ&hl=en"
+  googlescholar    : "http://scholar.google.ca/citations?user=Q5vulG4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@phil_a_richmond"
+  twitter          : "phil_a_richmond"
   vine             :
   weibo            :
   xing             :
